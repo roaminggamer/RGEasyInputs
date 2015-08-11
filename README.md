@@ -1,9 +1,9 @@
 RGEasyInputs
 ============
 
-(These modules require SSK be present loaded to work.)
+(These modules require SSK be present and loaded to work.)
 
-RGEasyInputs (part of the SSK modules set) is a collection of modules to create/destroy these input objects:
+RGEasyInputs (part of the SSK library) is a collection of modules to create/destroy these input objects:
 
  * oneTouch.lua - One-touch input.
  * twoTouch.lua - Two-touch input.
