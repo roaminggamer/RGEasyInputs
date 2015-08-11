@@ -6,14 +6,14 @@
 -- 								License
 -- =============================================================
 --[[
-	> RGCC is free to use.
-	> RGCC is free to edit.
-	> RGCC is free to use in a free or commercial game.
-	> RGCC is free to use in a free or commercial non-game app.
-	> RGCC is free to use without crediting the author (credits are still appreciated).
-	> RGCC is free to use without crediting the project (credits are still appreciated).
-	> RGCC is NOT free to sell for anything.
-	> RGCC is NOT free to credit yourself with.
+	> RGEasyInputs is free to use.
+	> RGEasyInputs is free to edit.
+	> RGEasyInputs is free to use in a free or commercial game.
+	> RGEasyInputs is free to use in a free or commercial non-game app.
+	> RGEasyInputs is free to use without crediting the author (credits are still appreciated).
+	> RGEasyInputs is free to use without crediting the project (credits are still appreciated).
+	> RGEasyInputs is NOT free to sell for anything.
+	> RGEasyInputs is NOT free to credit yourself with.
 ]]
 -- =============================================================
 display.setStatusBar(display.HiddenStatusBar)  -- Hide that pesky bar
