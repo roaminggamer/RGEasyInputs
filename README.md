@@ -1,4 +1,4 @@
-RGEasyInputs
+fRGEasyInputs
 ============
 
 (These modules require SSK be present loaded to work.)
@@ -174,13 +174,13 @@ ball.onJoystick = function( self, event )
 end; listen( "onJoystick", ball )
 ```
 
- ##### Joystick Event Parameters
-  * phase - Normal (touch) 'began', 'moved', 'ended' phases.
-  * angle - EFM
-  * vx / vy - Vector values from joystick center to finger position.
-  * nx / ny - Normalized nx / ny values if doNorm is 'true'.
-  * percent - 0.0 .. 1.0, where 1.0 means the stick is 100% to the outer ring. Note: 0.0 starts at edge of deadZone and increases outward.
-  * state - 'off' if stick is not past edge of deadZone.  'on' otherwise.
+##### Joystick Event Parameters
+ * phase - Normal (touch) 'began', 'moved', 'ended' phases.
+ * angle - EFM
+ * vx / vy - Vector values from joystick center to finger position.
+ * nx / ny - Normalized nx / ny values if doNorm is 'true'.
+ * percent - 0.0 .. 1.0, where 1.0 means the stick is 100% to the outer ring. Note: 0.0 starts at edge of deadZone and increases outward.
+ * state - 'off' if stick is not past edge of deadZone.  'on' otherwise.
 
 
 
@@ -260,13 +260,13 @@ ball.onRightJoystick = function( self, event )
 end; listen( "onRightJoystick", ball )
 ```
 
- ##### Joystick Event Parameters
-  * phase - Normal (touch) 'began', 'moved', 'ended' phases.
-  * angle - EFM
-  * vx / vy - Vector values from joystick center to finger position.
-  * nx / ny - Normalized nx / ny values if doNorm is 'true'.
-  * percent - 0.0 .. 1.0, where 1.0 means the stick is 100% to the outer ring. Note: 0.0 starts at edge of deadZone and increases outward.
-  * state - 'off' if stick is not past edge of deadZone.  'on' otherwise.
+##### Joystick Event Parameters
+ * phase - Normal (touch) 'began', 'moved', 'ended' phases.
+ * angle - EFM
+ * vx / vy - Vector values from joystick center to finger position.
+ * nx / ny - Normalized nx / ny values if doNorm is 'true'.
+ * percent - 0.0 .. 1.0, where 1.0 means the stick is 100% to the outer ring. Note: 0.0 starts at edge of deadZone and increases outward.
+ * state - 'off' if stick is not past edge of deadZone.  'on' otherwise.
 
 
 
