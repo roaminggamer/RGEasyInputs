@@ -1,4 +1,4 @@
-fRGEasyInputs
+RGEasyInputs
 ============
 
 (These modules require SSK be present loaded to work.)
