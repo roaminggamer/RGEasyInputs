@@ -21,12 +21,12 @@ end
 
 local easyInputs = {}
 _G.ssk.easyInputs = easyInputs
-easyInputs.joystick 		= require("RGeasyInputs.joystick")
-easyInputs.cornerButtons 	= require("RGeasyInputs.cornerButtons")
-easyInputs.oneTouch 		= require("RGeasyInputs.oneTouch")
-easyInputs.twoTouch 		= require("RGeasyInputs.twoTouch")
-easyInputs.oneStick 		= require("RGeasyInputs.oneStick")
-easyInputs.twoStick 		= require("RGeasyInputs.twoStick")
-easyInputs.oneStickOneTouch = require("RGeasyInputs.oneStickOneTouch")
+easyInputs.joystick 		= require("RGEasyInputs.joystick")
+easyInputs.cornerButtons 	= require("RGEasyInputs.cornerButtons")
+easyInputs.oneTouch 		= require("RGEasyInputs.oneTouch")
+easyInputs.twoTouch 		= require("RGEasyInputs.twoTouch")
+easyInputs.oneStick 		= require("RGEasyInputs.oneStick")
+easyInputs.twoStick 		= require("RGEasyInputs.twoStick")
+easyInputs.oneStickOneTouch = require("RGEasyInputs.oneStickOneTouch")
 --table.dump(easyInputs)
 return easyInputs
